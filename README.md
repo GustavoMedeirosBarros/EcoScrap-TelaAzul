@@ -7,7 +7,7 @@ EcoScrap é um sistema que mostra preços de materiais recicláveis e permite qu
 1.0
 
 # Autores:
-Integrantesm, RA, contato
+Integrantes, RA, contato
 
 Gustavo Galdino Alexandre Cavalcante 237052,
 Email: gustavo.galdino.2005@gmail.com
