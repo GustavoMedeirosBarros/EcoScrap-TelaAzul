@@ -4,8 +4,8 @@
 EcoScrap é um sistema que mostra preços de materiais recicláveis e permite que as pessoas denunciem atividades ilegais em ferro-velhos. O objetivo do sistema é simplificar a negociação de materiais recicláveis, fornecendo valores atualizados de forma instantânea, além de ser uma ferramenta eficaz para prevenção de atividades ilegais no campo de reciclagem.
 
 # Pré-requisitos:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
 
 # Versionamento:
 1.0
