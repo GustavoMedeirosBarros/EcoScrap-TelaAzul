@@ -8,7 +8,7 @@ EcoScrap é um sistema que mostra preços de materiais recicláveis e permite qu
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
 
 # Versionamento:
-1.0
+DEV 1.0
 
 # Autores:
 Integrantes, RA, contato
