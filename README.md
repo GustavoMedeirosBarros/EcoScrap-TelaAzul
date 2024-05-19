@@ -56,7 +56,7 @@ Gustavo Medeiros Barros dos Santos 237321
 Email: gm7661830@gmail.com
 
 Lucas Goulart Miranda 200192
-Email: meoplays@hotmail.com
+Email: meoxplays@hotmail.com
 
 Luccas Abreu Silva 237201
 Email: luccas.silva31@outlook.com
