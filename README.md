@@ -23,7 +23,7 @@ EcoScrap é um sistema que mostra preços de materiais recicláveis e permite qu
 5. Cotacão
 6. Estoque ferro velho
 
-## Usuário:
+### Usuário:
 A classe Usuário permite que os indivíduos realizem cadastro ou façam login no sistema. Eles podem também registrar denúncias sobre ferros-velhos ilegais e visualizar a cotação dos materiais recicláveis.
 
 ### Ferro Velho:
