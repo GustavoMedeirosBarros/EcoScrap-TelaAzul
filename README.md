@@ -23,22 +23,22 @@ EcoScrap é um sistema que mostra preços de materiais recicláveis e permite qu
 5. Cotacão
 6. Estoque ferro velho
 
-### Usuário:
+### 1. Usuário:
 A classe Usuário permite que os indivíduos realizem cadastro ou façam login no sistema. Eles podem também registrar denúncias sobre ferros-velhos ilegais e visualizar a cotação dos materiais recicláveis.
 
-### Ferro Velho:
+### 2. Ferro Velho:
 A classe Ferro Velho possibilita o cadastro ou login no sistema por parte dos estabelecimentos. Eles podem inserir materiais recicláveis no sistema, adicionar esses materiais ao seu estoque e ajustar os preços. Além disso, têm acesso à cotação desses materiais.
 
-### Denúncia:
+### 3. Denúncia:
 A classe Denúncia é responsável pelo registro de denúncias relacionadas a ferros-velhos ilegais no sistema. Seus parâmetros incluem descrição, data do incidente e localização.
 
-### Material Reciclável:
+### 4. Material Reciclável:
 A classe Material Reciclável é utilizada para cadastrar os diferentes tipos de materiais recicláveis no sistema, especificando-se sua natureza, preço por quilo e categoria.
 
-### Cotação:
+### 5. Cotação:
 A classe Cotação foi implementada para fornecer informações claras sobre a cotação dos materiais no sistema.
 
-### Estoque do Ferro Velho:
+### 6. Estoque do Ferro Velho:
 Esta classe armazena os materiais presentes no estoque dos ferros-velhos.
 
 # Implementações:
