@@ -1,6 +1,6 @@
- # ECOSCRAP
+# ECOSCRAP
 
- # Descrição:
+# Descrição:
 EcoScrap é um sistema que mostra preços de materiais recicláveis e permite que as pessoas denunciem atividades ilegais em ferro-velhos. O objetivo do sistema é simplificar a negociação de materiais recicláveis, fornecendo valores atualizados de forma instantânea, além de ser uma ferramenta eficaz para prevenção de atividades ilegais no campo de reciclagem.
 
 # Pré-requisitos:
