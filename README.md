@@ -67,17 +67,12 @@ V1.5
 # Autores:
 Integrantes, RA, contato
 
-Gustavo Galdino Alexandre Cavalcante 237052 - Programador Front-END
-Email: gustavo.galdino.2005@gmail.com
+Gustavo Galdino Alexandre Cavalcante 237052 - Programador Front-END - Email: gustavo.galdino.2005@gmail.com
 
-Gustavo Medeiros Barros dos Santos 237321 - Banco de dados e programação Back-END
-Email: gm7661830@gmail.com
+Gustavo Medeiros Barros dos Santos 237321 - Banco de dados e programação Back-END - Email: gm7661830@gmail.com
 
-Lucas Goulart Miranda 200192 - Documentação
-Email: meoxplays@hotmail.com
+Lucas Goulart Miranda 200192 - Documentação - Email: meoxplays@hotmail.com
 
-Luccas Abreu Silva 237201 - Trello e planejamento
-Email: luccas.silva31@outlook.com
+Luccas Abreu Silva 237201 - Trello e planejamento - Email: luccas.silva31@outlook.com
 
-Neemias Aguiar de Mello 237321 - Documentação e diagramas
-Email: neemias.aguiar@hotmail.com
+Neemias Aguiar de Mello 237321 - Documentação e diagramas - Email: neemias.aguiar@hotmail.com
