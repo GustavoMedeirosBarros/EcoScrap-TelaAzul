@@ -8,8 +8,7 @@ EcoScrap é um sistema que mostra preços de materiais recicláveis e permite qu
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 
 ## Bibliotecas usadas:
-1. JBDC
-2. JavaSwing
+- JBDC
 
 ## IDE:
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org)
@@ -42,24 +41,41 @@ A classe Cotação foi implementada para fornecer informações claras sobre a c
 Esta classe armazena os materiais presentes no estoque dos ferros-velhos.
 
 # Implementações:
-  
+### 1.0
+Foi criado o banco de dados e o menu inicial.
+
+### 1.1
+Foi implementado o banco de dados e as classes,e os metodos fazerCadastro,fazerCadastroFerroVelho e realizarDenuncia.
+
+### 1.2
+Foram implementados o login do usuario e ferro velho.
+
+### 1.3
+Foram adicionados os metodos de registrar material reciclavel e o metodo do ferro velho fazer estoque.
+
+### 1.4 
+Foram adicionados os metodos de atualizar o material reciclavel e atualizar estoque do ferro velho
+
+### 1.5
+Foi adicionado o metodo de ver cotação.
+
 # Versionamento:
-DEV 1.0
+1.5
 
 # Autores:
 Integrantes, RA, contato
 
-Gustavo Galdino Alexandre Cavalcante 237052,
+Gustavo Galdino Alexandre Cavalcante 237052 - Programador Front-END
 Email: gustavo.galdino.2005@gmail.com
 
-Gustavo Medeiros Barros dos Santos 237321
+Gustavo Medeiros Barros dos Santos 237321 - Banco de dados e programação Back-END
 Email: gm7661830@gmail.com
 
-Lucas Goulart Miranda 200192
+Lucas Goulart Miranda 200192 - Documentação
 Email: meoxplays@hotmail.com
 
-Luccas Abreu Silva 237201
+Luccas Abreu Silva 237201 - Trello e planejamento
 Email: luccas.silva31@outlook.com
 
-Neemias Aguiar de Mello 237321
+Neemias Aguiar de Mello 237321 - Documentação e diagramas
 Email: neemias.aguiar@hotmail.com
