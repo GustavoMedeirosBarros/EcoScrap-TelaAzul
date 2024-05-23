@@ -43,26 +43,26 @@ A classe Cotação foi implementada para fornecer informações claras sobre a c
 Esta classe armazena os materiais presentes no estoque dos ferros-velhos.
 
 # Implementações:
-### 1.0
+### V1.0
 Foi criado o banco de dados e o menu inicial.
 
-### 1.1
+### V1.1
 Foi implementado o banco de dados e as classes,e os metodos fazerCadastro,fazerCadastroFerroVelho e realizarDenuncia.
 
-### 1.2
+### V1.2
 Foram implementados o login do usuario e ferro velho.
 
-### 1.3
+### V1.3
 Foram adicionados os metodos de registrar material reciclavel e o metodo do ferro velho fazer estoque.
 
-### 1.4 
+### V1.4 
 Foram adicionados os metodos de atualizar o material reciclavel e atualizar estoque do ferro velho
 
-### 1.5
+### V1.5
 Foi adicionado o metodo de ver cotação.
 
 # Versionamento:
-1.5
+V1.5
 
 # Autores:
 Integrantes, RA, contato
