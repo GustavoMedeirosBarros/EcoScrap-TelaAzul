@@ -65,7 +65,7 @@ Foi adicionado o metodo de ver cotação.
 V1.5
 
 # Autores:
-Integrantes, RA, contato
+Integrantes, RA, responsabilidade, contato
 
 Gustavo Galdino Alexandre Cavalcante 237052 - Programador Front-END - Email: gustavo.galdino.2005@gmail.com
 
